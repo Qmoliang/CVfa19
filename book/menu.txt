@@ -1,0 +1,11 @@
+two important textbook by Baba:
+1. Computer Vision Algorithms and Applications, Dr. Richard Szeliski
+2. Multiple View Geometry in Computer Vision, Richard Hartley
+
+some textbook I have read when wrote homework:
+
+
+1. Robot-Vision-MIT, Berthold Klaus Paul Horn
+2. Introduction to Fourier Optics 2nd - J. Goodman
+
+there should exists pdf version on the Internet. I won't push it in this github. if need, please contact with me and I will send it to you. Respect for copyright.
